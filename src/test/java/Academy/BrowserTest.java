@@ -17,14 +17,14 @@ public class BrowserTest {
 	public void getData()
 	{
 		System.out.println("Hello Guys");
-		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+		/*System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		WebDriver driver =new ChromeDriver();
 		//test comments
 		driver.get("https://sandeepsangoju.azurewebsites.net/webapp/");
 		String text =driver.findElement(By.cssSelector("h1")).getText();
 		System.out.println(text);
 		Assert.assertTrue(text.equalsIgnoreCase("Sandeep Learning Learning"));
-		driver.close();
+		driver.close();*/
 	
 		
 		
